@@ -1,6 +1,6 @@
 === eFont Size ===
 Contributors: Rich Pedley
-Tags: dashboard, wp-content
+Tags: font, size, php
 Requires at least: 2.5
 Tested up to: 2.5
 Stable tag: 0.0.2
