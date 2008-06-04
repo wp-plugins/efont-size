@@ -18,18 +18,18 @@ A font size changer, written in php. rather than loading different style sheets 
 
 Download the plugin, upload to your Wordpress plugins directory and activate.
 
-By adding the following to you theme, inside the body:
-`<?php efontsize('85');?>`
+By adding the following to you theme, inside the body:  
+`efontsize('85');`  
 you can set the default body text size, a default of 100.1 will used if the value is omitted.
 
 As seen on http://elfden.co.uk/ I used this style to position the links at the top left hand side:
-`ul.efontsize{
-	position:absolute;
-	top:0;
-	right:0;
-	z-index:999;
-}
-ul.efontsize li{
-	display:inline;
-	margin-right:5px;
+`ul.efontsize{  
+	position:absolute;  
+	top:0;  
+	right:0;  
+	z-index:999;  
+}  
+ul.efontsize li{  
+	display:inline;  
+	margin-right:5px;  
 }`
