@@ -22,7 +22,7 @@ By adding the following to you theme, inside the body:
 `efontsize('85');`  
 you can set the default body text size, a default of 100.1 will used if the value is omitted.
 
-As seen on http://elfden.co.uk/ I used this style to position the links at the top left hand side:
+As seen on http://elfden.co.uk/ I used this style to position the links at the top right hand side:
 `ul.efontsize{  
 	position:absolute;  
 	top:0;  
