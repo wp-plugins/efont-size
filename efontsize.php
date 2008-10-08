@@ -3,7 +3,7 @@ if ('efontsize.php' == basename($_SERVER['SCRIPT_FILENAME']))
      die ('<h2>Direct File Access Prohibited</h2>');
 /*
 Plugin Name: eFont Size
-Plugin URI: http://www.quirm.net/
+Plugin URI: http://quirm.net/2008/10/07/efont-size/
 Description: A font resizer
 Version: 0.0.2
 Author: Rich Pedley 
